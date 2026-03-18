@@ -1,0 +1,12 @@
+ onmouseclick
+ onmouseover
+ onmousemove
+ onmousedown
+ onmouseup
+ onmouseouot
+ onDoubleClick
+ onKeyUp
+ onKeydown
+ onload
+ onunload
+ 
